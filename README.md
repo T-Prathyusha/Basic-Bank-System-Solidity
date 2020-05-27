@@ -6,4 +6,5 @@ Includes basic bank activities :
 3. Withdraw from the account
 4. Balance enquiry
 5. Delete the account
+
 **NOTE: The bank id returned while registering is the key to access the account any further
